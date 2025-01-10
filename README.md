@@ -8,6 +8,9 @@ Selecting these guys with one click
 
 ![изображение](https://github.com/user-attachments/assets/a4d63566-7903-480e-a348-0c253d669db8)
 
+![изображение](https://github.com/user-attachments/assets/fa9e8eec-b4f2-4643-911c-e40b3fc9d10f)
+
+
 ## How to install?
 1. `Drop Select_Concave_Polygons.py` and `Select_Concave_Polygons_start.ms` to `C:\Program Files\Autodesk\3ds Max 2023\scripts` folder (change to your path).
 2. In 3ds max run `Select_Concave_Polygons_start.ms` script via this menu:
