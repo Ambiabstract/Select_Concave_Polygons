@@ -1,5 +1,7 @@
 # Select_Concave_Polygons
-This is a Python script for 3ds Max that selects concave polygons. It uses pymxs. Tested on 2023.
+This is a Python script for 3ds Max that selects concave polygons. 
+It uses pymxs. 
+Tested only on 2023.
 
 ## What?
 Selecting these guys with one click 
