@@ -5,6 +5,8 @@ It uses pymxs.
 
 Tested only on 2023.
 
+Please make a backup of your work before using the script. Just in case.
+
 ## What?
 Selecting these guys with one click 
 
