@@ -7,6 +7,10 @@ Tested only on 2023.
 
 Please make a backup of your work before using the script. Just in case.
 
+Additionally, scripts have been added for:
+- Selecting n-gons with 5 or more vertices;
+- Selecting polygons without assigned smoothing groups.
+
 ## What?
 Selecting these guys with one click 
 
@@ -24,15 +28,15 @@ Selecting these guys with one click
 
 Nothing's going to happen, it's fine.
 
-3. Now go here:
+4. Now go here:
 
 ![изображение](https://github.com/user-attachments/assets/6aecc002-f53c-4e20-9518-93d2dadf94f7)
-4.
+5.
 
 ![изображение](https://github.com/user-attachments/assets/30ffd391-b04b-42b2-ab0f-9b0d7f7862e2)
 
-5. Drag n drop script name to your toolbar:
+6. Drag n drop script name to your toolbar:
 
 ![изображение](https://github.com/user-attachments/assets/86ffe245-f0b4-41dd-8df0-39cb05a324bb)
 
-6. Now you have a cool button that runs the script.
+7. Now you have a cool button that runs the script.
