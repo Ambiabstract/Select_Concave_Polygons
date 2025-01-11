@@ -31,12 +31,12 @@ Nothing's going to happen, it's fine.
 4. Now go here:
 
 ![изображение](https://github.com/user-attachments/assets/6aecc002-f53c-4e20-9518-93d2dadf94f7)
-5.
+
 
 ![изображение](https://github.com/user-attachments/assets/30ffd391-b04b-42b2-ab0f-9b0d7f7862e2)
 
-6. Drag n drop script name to your toolbar:
+5. Drag n drop script name to your toolbar:
 
 ![изображение](https://github.com/user-attachments/assets/86ffe245-f0b4-41dd-8df0-39cb05a324bb)
 
-7. Now you have a cool button that runs the script.
+6. Now you have a cool button that runs the script.
